@@ -38,3 +38,10 @@ As of Unity 5.6, the generated Cocoapod can be updated to the latest GVR iOS SDK
   * "Installing GVRSDK (1.70.0)" should appear in the console.
 * ``pod install``
 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
